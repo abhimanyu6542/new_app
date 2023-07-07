@@ -1,0 +1,9 @@
+.feature {
+  background: rgb(23, 10, 249);
+  background: linear-gradient(
+    90deg,
+    rgba(23, 10, 249, 1) 33%,
+    rgba(11, 222, 160, 1) 59%,
+    rgba(231, 229, 19, 1) 100%
+  );
+}
